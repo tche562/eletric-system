@@ -35,6 +35,14 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+## Use the OpenAPI
+
+After application started, please open it with:
+
+```bash
+http://localhost:3000/api
+```
+
 ## Test
 
 ```bash
